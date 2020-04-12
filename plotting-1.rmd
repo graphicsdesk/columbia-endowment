@@ -1,0 +1,100 @@
+---
+title: "plotting-1.rmd"
+author: "Jessica"
+date: "3/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Endowment Values
+```{r libraries}
+library(ggplot2)
+library(hrbrthemes)
+library(xlsx)
+
+```
+Loading the Data
+```{r data, echo = FALSE}
+balance <- read.xlsx("C:/Users/zhiyu/Documents/Spectator/Endowment/endowment-1.xlsx", 
+                    sheetName = "endowment",
+                    rowIndex = 1:16,
+                    colIndex = 1:2)
+
+```
+Line Plot of Endowment Fluctuations for Columbia
+```{r lineplot}
+ggplot(balance, aes(x=Financial.Year, y=Endowment.Value, group = 1)) +
+  geom_line() + geom_point() + ggtitle("Columbia University Endowment")
+
+```
+## Sample Treemap
+```{r sample}
+# library
+library(treemap)
+ 
+# Create data
+group <- c("group-1","group-2","group-3")
+value <- c(13,5,22)
+data <- data.frame(group,value)
+```
+
+```{r sample plot}
+# treemap
+treemap(data,
+            index="group",
+            vSize="value",
+            type="index"
+            )
+```
+
+
+
+# Asset Allocation TreeMap Breakdown (Sample Code)
+
+```{r libraries}
+library(treemap)
+
+```
+
+```{r data}
+breakdown <- read.xlsx("C:/Users/zhiyu/Documents/Spectator/Endowment/endowment-1.xlsx", 
+                    sheetName = "assetAllocations",
+                    rowIndex = 1:16,
+                    colIndex = 1:7)
+```
+### FY 2009
+
+```{r data-2009}
+assets2009 <- read.xlsx("C:/Users/zhiyu/Documents/Spectator/Endowment/endowment-1.xlsx", 
+                    sheetName = "assetAllocations",
+                    rowIndex = 2:8,
+                    colIndex = 13:14)
+```
+
+```{r 2009 plot}
+# treemap
+treemap(assets2009,
+            index="Group",
+            vSize="allocation",
+            type="index", title = "Columbia 2009 Asset Allocation"
+            )
+```
+### FY 2019
+
+```{r data-2009}
+assets2019 <- read.xlsx("C:/Users/zhiyu/Documents/Spectator/Endowment/endowment-1.xlsx", 
+                    sheetName = "assetAllocations",
+                    rowIndex = 2:8,
+                    colIndex = 10:11)
+```
+
+```{r 2019 plot}
+# treemap
+treemap(assets2019,
+            index="Group",
+            vSize="allocation",
+            type="index", title = "Columbia 2019 Asset Allocation"
+            )
+```
