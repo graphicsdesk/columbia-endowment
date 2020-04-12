@@ -2,14 +2,15 @@
 library(ggplot2)
 library(hrbrthemes)
 library(xlsx)
+library(scales)
 
-balance <- read.xlsx("data/endowment.xlsx",
-                     sheetName = "endowmentBalance",
-                     rowIndex = 1:14,
+balance <- read.xlsx("endowment.xlsx",
+                     sheetName = "endowment",
+                     rowIndex = 1:16,
                      colIndex = 1:2)
 
 ggplot(balance, aes(x=Financial.Year, y=Endowment.Value, group = 1)) +
-  geom_line() + geom_point() + ggtitle("Columbia University Endowment") + 
+  geom_line() + ggtitle("Columbia University Endowment") + 
   scale_y_continuous(labels=dollar_format(prefix="$"))
 
 library(treemap)
@@ -32,8 +33,8 @@ breakdown <- read.xlsx("data/endowment.xlsx",
                        colIndex = 1:7)
 ### FY 2009
 
-assets2009 <- read.xlsx("data/endowment.xlsx", 
-                        sheetName = "assetAllocations",
+assets2009 <- read.xlsx("endowment.xlsx", 
+                        sheetName = "assets",
                         rowIndex = 2:8,
                         colIndex = 13:14)
 treemap(assets2009,
@@ -44,8 +45,8 @@ treemap(assets2009,
 
 ### FY 2019
 
-assets2019 <- read.xlsx("data/endowment.xlsx", 
-                        sheetName = "assetAllocations",
+assets2019 <- read.xlsx("endowment.xlsx", 
+                        sheetName = "assets",
                         rowIndex = 2:8,
                         colIndex = 10:11)
 
