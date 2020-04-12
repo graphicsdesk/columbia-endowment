@@ -19,7 +19,7 @@ library(dplyr)
 ```
 Loading the Data
 ```{r data, echo = FALSE}
-revenue <- read.xlsx("C:/Users/zhiyu/Documents/Spectator/Endowment/endowment-1.xlsx", 
+revenue <- read.xlsx("endowment-1.xlsx", 
                     sheetName = "revenue",
                     rowIndex = 1:15,
                     colIndex = 1:6)
