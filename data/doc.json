@@ -1,12 +1,9 @@
 {
   "headline": "As the pandemic rages on, Columbia braces for widespread financial fallout",
+  "deck": "",
   "date": "4/16/20",
-  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Abby-Melbourne/\">Abby Melbourne</a>, <a href=\"https://www.columbiaspectator.com/contributors/Drew-Letellier/\">Drew Letellier,</a> <a href=\"https://www.columbiaspectator.com/contributors/Dia-Gill/\">Dia Gil</a>l\nGraphics by <a href=\"https://www.columbiaspectator.com/contributors/Jessica-Li/\">Jessica Li</a>",
+  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Abby-Melbourne/\">Abby Melbourne</a>, <a href=\"https://www.columbiaspectator.com/contributors/Drew-Letellier/\">Drew Letellier,</a> <a href=\"https://www.columbiaspectator.com/contributors/Dia-Gill/\">Dia Gill</a>\nData reporting and graphics by <a href=\"https://www.columbiaspectator.com/contributors/Jessica-Li/\">Jessica Li</a>",
   "body": [
-    {
-      "type": "text",
-      "value": "</i>"
-    },
     {
       "type": "text",
       "value": "As the COVID-19 pandemic creates disruptions and challenges to normal campus functions, a potential international economic crisis continues to unfold. With some economists projecting the virus pushing half a billion people into poverty, the stock market drop at the beginning of March—the steepest in the Dow Jones Industrial Average’s history—is a sign of more troubles to come. Within the past month, universities have evacuated their students have been evacuated from campus, canceled in-person university summer programs have been cancelled, and promised room and board refunds have been promised, changes that have leftleaving the higher education industry among those sectors reeling during the chaos."
@@ -28,6 +25,10 @@
       "value": {
         "asset": "ivies-endowments.html"
       }
+    },
+    {
+      "type": "subhed",
+      "value": "The Endowment"
     },
     {
       "type": "text",
@@ -80,6 +81,10 @@
       "value": {
         "asset": "revenue-breakdown.html"
       }
+    },
+    {
+      "type": "subhed",
+      "value": "Philanthropy and fundraising"
     },
     {
       "type": "text",
@@ -150,6 +155,10 @@
       "value": "“I’ve found that in times of financial stress, people often feel a greater sense of philanthropic interest in helping institutions ... like Columbia in particular,” said Bollinger said. “The need for our great universities and the need for a Columbia is in many ways more apparent when things are bad in the world than when things are good.”"
     },
     {
+      "type": "subhed",
+      "value": "Tuition"
+    },
+    {
       "type": "text",
       "value": "<b>"
     },
@@ -166,8 +175,8 @@
       "value": "But the threat of losing tuition income doesn’t just depend on international students, as universities across the country must also grapple with whether or not to open campus in the fall. On Monday, <a href=\"https://www.forbes.com/sites/susanadams/2020/04/13/boston-university-is-first-to-announce-it-may-postpone-its-fall-term-until-january-2021/#467060de4bd5\">Boston University</a> became the first American institution to announce that it may not have a fall 2020 semester, instead opening in the spring of 2021. Experts still remain divided as to whether social distancing measures will have lifted enough to allow universities to return to on-campus learning. At Columbia, which made the transition to online learning in early March and cancelled all in-person summer programs shortly after, administrators have yet to confirm whether students will return to campus in the fall. New York state is currently home to the highest population of confirmed coronavirus cases in the world, topping 118,000 in the past week."
     },
     {
-      "type": "text",
-      "value": "<b>National grants and funding"
+      "type": "subhed",
+      "value": "National grants and funding <b>"
     },
     {
       "type": "text",
@@ -202,8 +211,36 @@
       "value": "“We have to keep in mind that the entire research enterprise of the United States and the world at large is going to be delayed by this pandemic,” Savin said. “I expect that the agencies that are funding the research will understand this and attempt to take that into account when it comes time to write new proposals or when it comes time to submit annual reports asking for the next year’s funding to be released.”"
     },
     {
+      "type": "subhed",
+      "value": "Clinical income"
+    },
+    {
       "type": "text",
-      "value": "<i>Staff writer Drew Letellier can be contacted at </i><i>andrew.letellier@columbiaspectator.com</i><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/ColumbiaSpec\"><i>@ColumbiaSpec</i></a><i>."
+      "value": "[Related: <a href=\"https://www.columbiaspectator.com/news/2020/04/07/cuimc-staff-moves-to-the-frontlines-to-fight-the-pandemic-amid-the-loss-of-hundreds-of-millions-in-revenue/\"><b>CUIMC staff moves to the frontlines to fight the pandemic amid the loss of hundreds of millions in revenue</b></a><b>]</b>"
+    },
+    {
+      "type": "text",
+      "value": "In a redirection of resources towards fighting the COVID-19 outbreak, many physicians have left their medical practices to work in the ICUs and emergency rooms.  Non-essential medical procedures have been postponed and non-critical medical practice has ceased in the face of redeployments and social distancing guidelines. In the 2019 fiscal year, medical faculty practice plans generated over $1.3 billion in revenue for the University - over a quarter of the year’s income."
+    },
+    {
+      "type": "text",
+      "value": "Dr. Michael Shelanski, the senior vice dean for research at the Vagelos College of Physicians and Surgeons, estimated that the medical campus is “losing as much as $100 million a month in revenue because of loss of practice.”"
+    },
+    {
+      "type": "text",
+      "value": "Dr. Lawrence Lustig, a leading expert in hearing loss and chair of the department of otolaryngology- head and neck surgery, estimates that within his own service, revenues are down over 90 percent."
+    },
+    {
+      "type": "text",
+      "value": "“Us and some of the more surgical specialties are more heavily hit,” he said. “Again, it’s not dictating anything we do right now. There’s a number of potential ways we’re going to rectify this after the fact.”"
+    },
+    {
+      "type": "text",
+      "value": "Lustig believes the two keys to facilitating the Columbia University Irving Medical Center’s financial recovery are government subsidies that will offset revenue losses and a backlog of patients waiting for surgeries and postponed procedures."
+    },
+    {
+      "type": "text",
+      "value": "<i>Staff writer Drew Letellier can be contacted at </i><a href=\"mailto:andrew.letellier@columbiaspectator.com\"><i>andrew.letellier@columbiaspectator.com</i></a><i>."
     },
     {
       "type": "text",
@@ -211,16 +248,20 @@
     },
     {
       "type": "text",
-      "value": "</i><i>Staff writer Abby Melbourne can be contacted at </i><i>abby.melbourne@columbiaspectator.com</i><i>. Follow Spectator on Twitter at </i><a href=\"https://twitter.com/ColumbiaSpec?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\"><i>@ColumbiaSpec</i></a><i>."
+      "value": "</i><i>Staff writer Abby Melbourne can be contacted at </i><a href=\"mailto:abby.melbourne@columbiaspectator.com\"><i>abby.melbourne@columbiaspectator.com</i></a><i>."
     },
     {
       "type": "text",
-      "value": "</i><i>Staff Writer Dia Gill can be contacted at </i><i>dia.gill@columbiaspectator.com</i><i>. Follow Spectator on Twitter at </i><a href=\"https://twitter.com/_diagill\"><i>@_diagill</i></a><i>."
+      "value": "</i><i>Staff Writer Dia Gill can be contacted at </i><a href=\"mailto:dia.gill@columbiaspectator.com\"><i>dia.gill@columbiaspectator.com</i></a><i>. Follow her on Twitter at </i><a href=\"https://twitter.com/_diagill\"><i>@_diagill</i></a><i>."
+    },
+    {
+      "type": "text",
+      "value": "</i><i>Graphics reporter Jessica Li can be contacted at </i><a href=\"mailto:jessica.li@columbiaspectator.com\"><i>jessica.li@columbiaspectator.com</i></a><i>."
     },
     {
       "type": "text",
       "value": "</i>"
     }
   ],
-  "footer": "Produced with <a href=\"https://github.com/spec-journalism/spectate/\">Spectate</a> by the Spectator <a href=\"https://github.com/spec-journalism\">Graphics</a> team."
+  "footer": "Edited by <a href=\"https://www.columbiaspectator.com/contributors/Shubham-Saharan/\">Shubham Saharan</a>. Additional work by<a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\"> Raeedah Wahid</a>. \nProduced with <a href=\"https://github.com/spec-journalism/spectate/\">Spectate</a> by the Spectator <a href=\"https://github.com/spec-journalism\">Graphics</a> team."
 }

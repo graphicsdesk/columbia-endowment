@@ -49,8 +49,14 @@
         </case>
         <case n="'graphic'">
           <div class="graphic">
-            <if condition="item.value.asset === 'graphic-name.html'">
-              <include src="graphic-name.html"></include>
+            <if condition="item.value.asset === 'endowment-values.html'">
+              <include src="endowment-values.html"></include>
+            </if>
+            <if condition="item.value.asset === 'ivies-endowments.html'">
+              <include src="ivies-endowments.html"></include>
+            </if>
+            <if condition="item.value.asset === 'revenue-breakdown.html'">
+              <include src="revenue-breakdown.html"></include>
             </if>
           </div>
         </case>
