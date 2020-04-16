@@ -3,6 +3,7 @@
 #top {
   // UNCOMMENT to hide navbar
   // display: none;
+  float: none;
   padding: 0;
 }
 
@@ -33,5 +34,31 @@
 
 // Hide section#main before it is replaced
 #main {
+  display: none;
+}
+
+#pb-root > article, #pb-root > article * {
+  box-sizing: unset;
+}
+
+article header {
+  padding-top: 0;
+}
+
+.pb-f-global-footer .footer {
+  margin: 0;
+}
+
+.bottom-footer {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+}
+
+html {
+  overflow-x: visible;
+}
+
+.pb-f-global-leaderboard-ad {
   display: none;
 }
