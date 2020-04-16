@@ -1,16 +1,15 @@
 {
   "headline": "As the pandemic rages on, Columbia braces for widespread financial fallout",
-  "deck": "",
-  "date": "4/16/20",
-  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Abby-Melbourne/\">Abby Melbourne</a>, <a href=\"https://www.columbiaspectator.com/contributors/Drew-Letellier/\">Drew Letellier,</a> <a href=\"https://www.columbiaspectator.com/contributors/Dia-Gill/\">Dia Gill</a>\nData reporting and graphics by <a href=\"https://www.columbiaspectator.com/contributors/Jessica-Li/\">Jessica Li</a>",
+  "date": "April 16, 2020",
+  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Abby-Melbourne/\">Abby Melbourne</a>, <a href=\"https://www.columbiaspectator.com/contributors/Drew-Letellier/\">Drew Letellier,</a> <a href=\"https://www.columbiaspectator.com/contributors/Dia-Gill/\">Dia Gill</a>\nData and graphics by <a href=\"https://www.columbiaspectator.com/contributors/Jessica-Li/\">Jessica Li</a>",
   "body": [
     {
       "type": "text",
-      "value": "As the COVID-19 pandemic creates disruptions and challenges to normal campus functions, a potential international economic crisis continues to unfold. With some economists projecting the virus pushing half a billion people into poverty, the stock market drop at the beginning of March—the steepest in the Dow Jones Industrial Average’s history—is a sign of more troubles to come. Within the past month, universities have evacuated their students have been evacuated from campus, canceled in-person university summer programs have been cancelled, and promised room and board refunds have been promised, changes that have leftleaving the higher education industry among those sectors reeling during the chaos."
+      "value": "As the COVID-19 pandemic creates disruptions and challenges to normal campus functions, an international economic crisis continues to unfold. Some economists predict the virus will push half a billion people into poverty, and the stock market drop at the beginning of March—the steepest in the Dow Jones Industrial Average’s history—is a sign of more troubles to come. Within the past month, universities have evacuated their students from campus, canceled in-person summer programs, and promised room and board refunds—changes that have left the higher education industry among those sectors reeling in the chaos."
     },
     {
       "type": "text",
-      "value": "In an email to faculty and administration at the end of March from University Interim Provost Ira Katznelson noted the particular strain on Columbia’s revenue stems from five principal streams:  returns on the endowment, fundraising, federal and private research grants and contracts,<a href=\"https://www.columbiaspectator.com/news/2020/04/07/cuimc-staff-moves-to-the-frontlines-to-fight-the-pandemic-amid-the-loss-of-hundreds-of-millions-in-revenue/\"> clinical income</a>, and tuition—each subject to challenges posed by the virus’s spread."
+      "value": "In an email to faculty and administration at the end of March, interim Provost Ira Katznelson noted that Columbia’s revenue results from five principal streams: returns on the endowment, fundraising, tuition, federal and private research grants and contracts,<a href=\"https://www.columbiaspectator.com/news/2020/04/07/cuimc-staff-moves-to-the-frontlines-to-fight-the-pandemic-amid-the-loss-of-hundreds-of-millions-in-revenue/\"> and clinical income</a>. Each is uniquely subject to challenges posed by the virus’s spread. In the email, Katznelson added that the University would be placing a temporary hiring freeze on all academic and administrative positions, with rare exceptions."
     },
     {
       "type": "text",
@@ -18,7 +17,7 @@
     },
     {
       "type": "text",
-      "value": "In contrast to Harvard University’s nearly 30 percent% drop in endowment value from 2008 to 2009, Columbia fared the best among its Ivy Lleague peers in terms of endowment crashes and a loss in fundraising during the Great Recession, due to stability in the other three streams that kept it afloat. But as the global economy braces for a difficult few years ahead, Columbia will have to face the prospect of significant simultaneous losses within each of these revenue streams, which may not be curtailed by efforts such as a hiring freeze for both academic and administrative positions and re-thinking metrics of tenure eligibility."
+      "value": "In contrast to Harvard University and its nearly 30 percent drop in endowment value from 2008 to 2009, Columbia fared the best among its Ivy League peers in terms of weathering endowment crashes and a loss in fundraising during the Great Recession, due to the relative stability of federal grants, tuition, and clinical income that kept it afloat. But as the global economy braces for a difficult few years ahead, Columbia will have to face the prospect of suffering significant simultaneous losses in all of these revenue streams."
     },
     {
       "type": "graphic",
@@ -32,7 +31,19 @@
     },
     {
       "type": "text",
-      "value": "As colleges and universities nationwide brace for a potential recession, a particular source of economic concern are their endowments. At the end of 2019, Moody’s downgraded the outlook for the U.S. higher education sector from “stable” to “negative,”, indicating an expected lag in net tuition revenue. Columbia’s endowment—managed and invested by the Columbia Investment Company and currently valued at almost $11 billion—is a combination of liquid holdings and long term investments. The University only spends the returns on its investments averaged over three fiscal years, a lagging average designed to cushion itstheir assets from quarter to quarter market volatility. In times of crisis, it is at the discretion of University Trustees to alter their endowment spending policy."
+      "value": "As Ivy League universities brace for a potential recession, national scrutiny has turned toward their endowments, which total over $135 billion. At the end of 2019, Moody’s downgraded the outlook for the U.S. higher education sector from “stable” to “negative,” indicating an expected lag in net tuition revenue."
+    },
+    {
+      "type": "text",
+      "value": "Managed and invested by the Columbia Investment Company, Columbia’s endowment is a combination of liquid holdings and long term investments and currently valued at almost $11 billion. The University spends the returns on its investments, an amount that constitutes around 5 percent of the total endowment value. In times of crisis, the University Trustees may alter their endowment spending policy."
+    },
+    {
+      "type": "text",
+      "value": "Columbia’s endowment return performance has already consistently ranked among the lowest in the Ivy League in the last few years. Last year’s returns came in at a meager 3.8 percent in comparison to Harvard’s 6.5 percent and Yale University’s 5.7 percent, creating an expectation for the University this year to increase fundraising, cut programs and staff, bring in more students, or raise tuition. However, all of these options are now impeded by COVID-19."
+    },
+    {
+      "type": "text",
+      "value": "In a recession, when endowment dips can lose universities billions, these institutions may find themselves in grave financial situations."
     },
     {
       "type": "graphic",
@@ -42,11 +53,11 @@
     },
     {
       "type": "text",
-      "value": "</i>"
+      "value": "But Columbia, unlike peer institutions, is less at risk of facing the impacts of a volatile endowment. This can be seen in the <a href=\"https://www.google.com/url?q=http://spectatorarchive.library.columbia.edu/?a%3Dd%26d%3Dcs20090511-01.2.4%26srpos%3D10%26e%3D------&sa=D&ust=1587025595916000&usg=AFQjCNGEHLd0WlvS3C_cFgw2Q27VD9bxeg\">aftermath of the 2008 crisis</a> when the University’s endowment dropped 22 percent, a rate comparable to dips at peer institutions. Yet Columbia fared better than institutions with larger endowments because the University only relies on endowment funds for around 15 percent of its operating budget. The remainder primarily comes from government grants, patient revenue, tuition, private gifts, and contracts. Meanwhile, at Harvard and Yale, endowment funds constitute about 35 and 34 percent of the universities’ net revenues, respectively."
     },
     {
       "type": "text",
-      "value": "And despite the fragility of the markets, University President Lee Bollinger does not see cause to panic yet."
+      "value": "Citing Columbia’s relatively diverse portfolio, University President Lee Bollinger told Spectator in an interview in late March that he does not yet see cause for panic."
     },
     {
       "type": "text",
@@ -54,27 +65,23 @@
     },
     {
       "type": "text",
-      "value": "The University’s endowment assets are divided into hedge funds, global equities, real assets, absolute return strategy funds, fixed income, and cash. The asset allocation is often impacted by economic conditions."
+      "value": "Kenneth E. Redd, senior director of research and policy analysis for the National Association of College and University Business Officers, noted that institutions should also examine the diversity of their investments and rebalance endowment portfolios during an economic downturn."
     },
     {
       "type": "text",
-      "value": "Kenneth E. Redd, the senior director of research and policy analysis for the National Association of College and University Business Officers, advises patience and caution to universities during the COVID-19 crisis."
+      "value": "“Right now, every indication that I’ve seen thus far is that most financial managers and investment firms are pretty much saying that institutions should sit tight and not make radical changes in their asset allocation strategy,” he said. “Certainly lots of larger endowments will look at these [economic] crises as opportunities to rebalance their portfolios and might actually buy riskier investments while their prices are cheaper and hope for a recovery.”"
     },
     {
       "type": "text",
-      "value": "“Right now every indication that I’ve seen thus far is that most financial managers and investment firms are pretty much saying that institutions should sit tight and not make radical changes in their asset allocation strategy,” he said. “Certainly lots of larger endowments will look at these [economic] crises as opportunities to rebalance their portfolios and might actually buy riskier investments while their prices are cheaper and hope for a recovery.”"
+      "value": "The University’s endowment assets are divided into hedge funds, global equities, real assets, absolute return strategy funds, fixed income, and cash. Asset allocation is often impacted by economic conditions."
     },
     {
       "type": "text",
-      "value": "The<i> </i>2019 NACUBOacubo-TIAA Study of Endowments found that large endowments valued over $1 billion, such as Columbia’s, have a smaller share of their assets allocated to American stocks than their peers. Consequently, the large share of Ivy League endowment funds invested in hedge funds and private equity serves universities well, Redd notes."
+      "value": "The 2019 NACUBO-TIAA Study of Endowments found that large endowments valued over $1 billion, such as Columbia’s, have a smaller share of their assets allocated to American stocks than their peers. Consequently, the large share of Ivy League endowment funds invested in hedge funds and private equity serves universities well, Redd noted."
     },
     {
       "type": "text",
-      "value": "“The counterintuitive part of endowment investing is that those types of investments, [is] their performance tends to not be correlated with the public stock markets so the larger endowments might arguably do a little bit better than the smaller endowments during this crisis,” he said. “Hedge funds are designed to preserve capital, so they actually might go up during a crisis.”"
-    },
-    {
-      "type": "text",
-      "value": "However, Columbia’s endowment return performance has consistently ranked among the lowest in the Ivy League in the last few years, with last year’s returns coming in at a meager 3.8 percent in comparison to Harvard’s 6.5 percent and Yale University’s 5.7 percent, creating an extra expectation for the University to increase fundraising, cut programs and staff, bring in more students, or raise tuition—all options impeded by COVID-19."
+      "value": "“The counterintuitive part of endowment investing is that for those types of investments, their performance tends to not be correlated with the public stock markets, so the larger endowments might arguably do a little bit better than the smaller endowments during this crisis,” he said. “Hedge funds are designed to preserve capital, so they actually might go up during a crisis.”"
     },
     {
       "type": "graphic",
@@ -88,39 +95,39 @@
     },
     {
       "type": "text",
-      "value": "Philanthropy is another key aspect of the University’s funding, generating 10ten percent of Columbia’'s total revenue and accounting for a significant portion of the $1.19 billion dollars spent on research expenditures during the 2019 Fiscal Year. And with the recent introduction of capital university projects like the Manhattanville Campus, a six billion dollar endeavor,  and the Climate School (<a href=\"https://www.columbiaspectator.com/news/2020/02/06/donors-havent-given-to-columbias-climate-research-columbia-says-the-climate-school-will-change-that/\">aimed at attracting new donors</a>), this philanthropic funding has become especially necessary moving forward."
+      "value": "Philanthropy is another key aspect of the University’s funding, generating 10 percent of Columbia’s total revenue and accounting for a significant portion of the $1.19 billion dollars spent on research expenditures during the 2019 fiscal year. Philanthropic funding has become especially necessary moving forward because of upcoming and ongoing capital University projects such as the $6 billion construction of the Manhattanville campus and the <a href=\"https://www.columbiaspectator.com/news/2020/02/06/donors-havent-given-to-columbias-climate-research-columbia-says-the-climate-school-will-change-that/\">new climate school</a>."
     },
     {
       "type": "text",
-      "value": "Professor David Helfand, the former chair of the department of astronomy, is more concerned about the pandemic’s future impact on philanthropy than other sources of funding, in part due to recessions’ negative impact on philanthropy in the past. Following the Great Recession in 2008, even as Americans donated roughly the same proportion of their income, total individual giving<a href=\"https://inequality.stanford.edu/sites/default/files/CharitableGiving_fact_sheet.pdf\"> fell between six and seven percent.</a> Philanthropy numbers stayed below pre-recession levels for years afterward."
+      "value": "Professor David Helfand, the former chair of the department of astronomy, is more concerned about the pandemic’s future impact on philanthropy than most other sources of funding, in part due to recessions’ negative impacts on philanthropy in the past. Following the Great Recession in 2008, even as Americans donated roughly the same proportion of their income, total individual giving<a href=\"https://inequality.stanford.edu/sites/default/files/CharitableGiving_fact_sheet.pdf\"> fell between 6 and 7 percent.</a> Philanthropy numbers stayed below pre-recession levels for years afterward."
     },
     {
       "type": "text",
-      "value": "“The large majority of the money comes from a veryVERY small fraction of large gifts,” Helfand said. “The people who give $100 or $1,000 a year … are important to keep connected to the university, but they don’t give a substantial fraction of the total philanthropic giving.”"
+      "value": "“The large majority of the money comes from a very small fraction of large gifts,” Helfand said. “The people who give $100 or $1,000 a year are important to keep connected to the University, but they don’t give a substantial fraction of the total philanthropic giving.”"
     },
     {
       "type": "text",
-      "value": "Given the concentration of the majority of philanthropic money in a very small percentage of donations [verify], the success of many programs and research groups rides on just a few of the donors’ continued support."
+      "value": "Given the large concentration of philanthropic money in a very small percentage of donations, the success of many programs and research groups rides on just a few donors’ continued support."
     },
     {
       "type": "text",
-      "value": "“Depending on what the markets do, [these donors] feel roughly 35 percent poorer than they did a month ago,” he continued."
+      "value": "“Depending on what the markets do, [these donors] feel roughly 35 percent poorer than they did a month ago,” Helfand said."
     },
     {
       "type": "text",
-      "value": "Among the groups most vulnerable to a potential dip in philanthropy are several Columbia Centers, the majority of which are almost entirely funded through grants and philanthropy."
+      "value": "Among the groups most vulnerable to a potential dip in philanthropy are several Columbia centers and institutes, the majority of which are almost entirely funded through grants and philanthropy. For affiliated groups like the Weatherhead East Asian Institute, the decline of revenue may mean that adjuncts cannot continue teaching courses in the next academic year, according to Lien-Hang Nguyen, the acting director for the institute."
     },
     {
       "type": "text",
-      "value": "The Center for Climate and Life, for example, a research group which investigates how climate impacts global food security, doesn’t have a funding recourse if and when philanthropy falls through. According to the center’s director, Peter deMenocal, the research group is not where it wants to be financially at this point."
+      "value": "The Center for Climate and Life, a research group that investigates how climate impacts global food security, does not have a funding recourse if and when philanthropy falls through. According to the center’s director, Peter deMenocal, the research group is facing financial struggles."
     },
     {
       "type": "text",
-      "value": "“The prognosis is not good. … We haven’t raised one-twentieth of what [we] hope to raise,” said deMenocal said. “We’re losing people because of the economy. It’s hard to meet the demand with the funding that is available at the moment. [The current funding] is still a drop in the bucket relative to the scale of the problem.”"
+      "value": "“The prognosis is not good. … We haven’t raised one-twentieth of what [we] hope to raise,” deMenocal said. “We’re losing people because of the economy. It’s hard to meet the demand with the funding that is available at the moment. [The current funding] is still a drop in the bucket relative to the scale of the problem.”"
     },
     {
       "type": "text",
-      "value": "The Center for Gender & Sexuality Law faces similarly dire straits. While a lot of the work done is voluntary, such as that by the center’s director Katherine Franke, and will continue regardless of funding, other staff working for the center face a different reality."
+      "value": "The Center for Gender & Sexuality Law faces similarly dire straits. While a lot of the work done is voluntary, such as that contributed by the center’s director Katherine Franke, and will continue regardless of funding, other staff members working for the center face a different reality."
     },
     {
       "type": "text",
@@ -128,31 +135,23 @@
     },
     {
       "type": "text",
-      "value": "Even groups like the Weatherhead East Asian Institute that have been especially prudent with their financial savings face difficulties moving forward, difficulties that go beyond the simple cancellation of a few spring activities."
+      "value": "Not every center, however, faces an immediate funding problem. The Center for Computer Music, for example, is better equipped than most to withstand the pandemic’s financial burden thanks to its low operating costs and staff salaries that are funded internally by the University itself."
     },
     {
       "type": "text",
-      "value": "“We have adjuncts that were teaching for us, [and] we may not be able to pick up their courses in the next academic year,” said Lien-Hang Nguyen, the acting director for the institute, said."
+      "value": "“Because of the service we provide for both the music department and the School of the Arts, we can continue [operations] with no external funding,” director Brad Garton said. “I recognize we’re luckier than most.”"
     },
     {
       "type": "text",
-      "value": "Not every center, however, faces an immediate funding problem. The Center for Computer Music for example, thanks to its low operating costs and staff salaries that are funded internally by the University itself, is better equipped than most to withstand the pandemic’s financial burden."
+      "value": "For the Center for Resilient Cities and Landscape, the pandemic will influence financial decision making but will not pose an existential threat, as the center will remain fully funded for at least one more year according to director Kate Orff."
     },
     {
       "type": "text",
-      "value": "“Because of the service we provide for both the music department and the school of the arts, we can continue [operations] with no external funding,” director Brad Garton said. “I recognize we’re luckier than most.”"
+      "value": "Bollinger echoed these more confident sentiments, pointing out that although fundraising is more challenging in times of recession, it by no means becomes impossible."
     },
     {
       "type": "text",
-      "value": "For the Center for Resilient Cities and Landscape too, though the pandemic will influence financial decision making, it won’t pose an existential threat, with the center remaining fully funded for at least one more year, according to director Kate Orff."
-    },
-    {
-      "type": "text",
-      "value": "President Bollinger echoed these more confident sentiments, pointing out that although fundraising is more challenging in times of recession, it by no means disappears."
-    },
-    {
-      "type": "text",
-      "value": "“I’ve found that in times of financial stress, people often feel a greater sense of philanthropic interest in helping institutions ... like Columbia in particular,” said Bollinger said. “The need for our great universities and the need for a Columbia is in many ways more apparent when things are bad in the world than when things are good.”"
+      "value": "“I’ve found that in times of financial stress, people often feel a greater sense of philanthropic interest in helping institutions ... like Columbia in particular,” Bollinger said. “The need for our great universities and the need for a Columbia is in many ways more apparent when things are bad in the world than when things are good.”"
     },
     {
       "type": "subhed",
@@ -160,55 +159,63 @@
     },
     {
       "type": "text",
-      "value": "<b>"
+      "value": "Making up almost a quarter of the central operating budget at over $1.2 billion dollars, tuition from across Columbia’s 18 schools is the highest-grossing revenue stream for the University."
     },
     {
       "type": "text",
-      "value": "</b>The highest grossing revenue stream for the University making upgenerating almost a quarter of the ____—over 1.2 billion dollars—comes from tuition from across the 16 schools at Columbia."
+      "value": "As COVID-19 continues to spread and international travel restrictions trigger economic uncertainty across the globe, the enrollment of international students at universities like Columbia may see significant declines in the near future. Columbia <a href=\"https://www.chronicle.com/article/International-Students-Bailed/247130\">heavily depend</a>s <a href=\"https://www.columbiaspectator.com/news/2020/03/10/coronavirus-threatens-drop-in-international-student-enrollment-for-universities-across-nation/\">on international student tuition</a> as a main driver of revenue, as 31 percent of its student population comes from foreign countries."
     },
     {
       "type": "text",
-      "value": "As COVID-19 continues to spread across the globe, and growing international travel restrictions triggerand triggers economic uncertainty across the globe, the enrollment of international students at universities like Columbia—which <a href=\"https://www.chronicle.com/article/International-Students-Bailed/247130\">heavily depend</a>s <a href=\"https://www.columbiaspectator.com/news/2020/03/10/coronavirus-threatens-drop-in-international-student-enrollment-for-universities-across-nation/\">on international student tuition</a> as a main driver of revenue, with 31 percent of its student population coming from foreign countries—may see significant declines in the near future."
+      "value": "The Faculty of Arts and Sciences—an organizational unit composed of faculty from Columbia College, the School of General Studies, the School of the Arts, the School of Professional Studies, and the Graduate School of the Arts and Sciences—is particularly vulnerable. Both undergraduate tuition and tuition paid by masters’ students in SPS, which is largely composed of international students, drive the revenue that covers increasing expenses such as faculty salaries and financial aid. To cover other losses during the last recession, the Columbia College undergraduate class was expanded by <a href=\"http://spectatorarchive.library.columbia.edu/?a=d&d=cs20090407-01.2.7&srpos=2&e=-------en-20--1--txt-txIN-increase+enrollment+50+students+2009------\">50 students to generate</a> around $1 million in additional tuition revenue."
     },
     {
       "type": "text",
-      "value": "But the threat of losing tuition income doesn’t just depend on international students, as universities across the country must also grapple with whether or not to open campus in the fall. On Monday, <a href=\"https://www.forbes.com/sites/susanadams/2020/04/13/boston-university-is-first-to-announce-it-may-postpone-its-fall-term-until-january-2021/#467060de4bd5\">Boston University</a> became the first American institution to announce that it may not have a fall 2020 semester, instead opening in the spring of 2021. Experts still remain divided as to whether social distancing measures will have lifted enough to allow universities to return to on-campus learning. At Columbia, which made the transition to online learning in early March and cancelled all in-person summer programs shortly after, administrators have yet to confirm whether students will return to campus in the fall. New York state is currently home to the highest population of confirmed coronavirus cases in the world, topping 118,000 in the past week."
+      "value": "But this may not be feasible in the wake of the pandemic, as the potential losses intuition income do not solely come from international students. Universities across the country must also grapple with whether or not to open campus in the fall. On Monday, <a href=\"https://www.forbes.com/sites/susanadams/2020/04/13/boston-university-is-first-to-announce-it-may-postpone-its-fall-term-until-january-2021/#467060de4bd5\">Boston University</a> became the first American institution to announce that it may not have an in-person fall 2020 semester. Experts still remain divided as to whether social distancing measures will have lifted enough to allow universities to return to on-campus learning this fall."
+    },
+    {
+      "type": "text",
+      "value": "At Columbia, which made the transition to online learning in early March and canceled all in-person summer programs shortly after, administrators have yet to confirm whether students will return to campus in the fall. New York state currently contains a higher number of confirmed coronavirus cases than any country outside of the United States, as it topped 118,000 in the past week."
     },
     {
       "type": "subhed",
-      "value": "National grants and funding <b>"
+      "value": "National grants and funding"
     },
     {
       "type": "text",
-      "value": "</b>"
-    },
-    {
-      "type": "text",
-      "value": "The National Institute of Health, a major source of funding, has provided researchers with guidance on how to extend the renewal dates for grants and hashave allowed faculty working from home to continue getting paid. According to Dr. Michael Shelanski, senior vice dean for research, backlogs of data are keeping researchers occupied for at least the next few months."
-    },
-    {
-      "type": "text",
-      "value": "“They are insisting they work, and that becomes a somewhat odd definition,” Shelanski said. “People are writing papers;, they’re doing literature research;, they’re analyzing data sets. So they’re keeping as busy as they can.”"
-    },
-    {
-      "type": "text",
-      "value": "Shelanski believes active grants will continue to be a reliable source of income for the term they were originally awarded. Beyond this period of expected stability, he says “no one can predict” what will come. The stimulus bill has allocated almost a billion dollars for COVID-19 research, but it’s unclear how the NIH will distribute this money. According to Shelanski, the NIH spends both extramurally, with grants to universities and research institutes, and intramurally on the large research programs within the NIH."
-    },
-    {
-      "type": "text",
-      "value": "Under President Donald Trump, the NIH’s budget has already taken several hits. In February of this year, Trump submitted his 2021 budget request, proposing a seven percent cut to the organization’s funding, from $41 billion this year to $38.7 billion. Decreased funding has affected the number of grants that the NIH is able to supply, and as the nation enters a recession, research is set to lose even more."
-    },
-    {
-      "type": "text",
-      "value": "“If the government, as we come out of this crisis, says, ‘Ooh, we have too much national debt,’ and they cut NIH funding, down the road that could be very detrimental,” said Shelanski. “I would expect when we come out of this, it is going to become economically difficult to conduct research.”"
-    },
-    {
-      "type": "text",
-      "value": "Daniel Savin, chair of the Uuniversity Ssenate research officers committee, represents roughly 1200 post-doctoral research scientists, scholars, and fellows;, 400 staff research officers; and 800 professional research officers. Almost all of the positions he represents are tied to grants from external agencies."
+      "value": "Daniel Savin, chair of the University Senate research officers committee, represents roughly 1,200 postdoctoral research scientists, scholars, and fellows; 400 staff research officers; and 800 professional research officers. Almost all of the people he represents are tied to grants from external agencies."
     },
     {
       "type": "text",
       "value": "“We have to keep in mind that the entire research enterprise of the United States and the world at large is going to be delayed by this pandemic,” Savin said. “I expect that the agencies that are funding the research will understand this and attempt to take that into account when it comes time to write new proposals or when it comes time to submit annual reports asking for the next year’s funding to be released.”"
+    },
+    {
+      "type": "text",
+      "value": "Across the nation, as non-COVID-19-related research comes to a pause, universities have organized to lobby Congress for direct aid so researchers and labs can continue operating in the coming academic year."
+    },
+    {
+      "type": "text",
+      "value": "Earlier in March, four organizations representing the major research institutions and medical schools—including the Association of American Universities, of which Columbia is a member—urged <a href=\"https://www.sciencemag.org/news/2020/03/universities-urge-us-leaders-boost-science-budgets-15-ease-rules-cope-pandemic\">congressional representatives</a> to increase federal science agencies’ spending by $13 billion to continue funding for research, restart closed labs, and cover unanticipated costs. The White House Office of Management and Budget issued a new directive that granted some requests, though universities have continued to push for more funding and flexibility with how that funding may be used."
+    },
+    {
+      "type": "text",
+      "value": "The National Institute of Health, a major source of funding, has provided researchers with guidance on how to extend the renewal dates for grants and has allowed faculty working from home to continue getting paid. According to Dr. Michael Shelanski, senior vice dean for research, backlogs of data are keeping researchers occupied for at least the next few months."
+    },
+    {
+      "type": "text",
+      "value": "“They are insisting they work, and that becomes a somewhat odd definition,” Shelanski said. “People are writing papers. They’re doing literature research. T; they’re analyzing data sets. So they’re keeping as busy as they can.”"
+    },
+    {
+      "type": "text",
+      "value": "Shelanski added that active grants will continue to be a reliable source of income for the term they were originally awarded. Beyond this period of expected stability, he said, “no one can predict” what will come. The stimulus bill has allocated almost $1 billion for COVID-19 research, but it is unclear how the NIH will distribute this money. According to Shelanski, the NIH spends both extramurally, with grants to universities and research institutes, and intramurally, on large research programs."
+    },
+    {
+      "type": "text",
+      "value": "Under President Donald Trump, the NIH’s budget has already taken several hits. In February, Trump submitted his 2021 budget request, proposing a 7 percent cut to the organization’s funding from $41 billion this year to $38.7 billion. Decreased funding has affected the number of grants that the NIH is able to supply, and research is set to lose even more as the nation enters a recession."
+    },
+    {
+      "type": "text",
+      "value": "“If the government, as we come out of this crisis, says, ‘Oh, we have too much national debt,’ and they cut NIH funding, down the road that could be very detrimental,” said Shelanski. “I would expect when we come out of this, it is going to become economically difficult to conduct research.”"
     },
     {
       "type": "subhed",
@@ -216,19 +223,19 @@
     },
     {
       "type": "text",
-      "value": "[Related: <a href=\"https://www.columbiaspectator.com/news/2020/04/07/cuimc-staff-moves-to-the-frontlines-to-fight-the-pandemic-amid-the-loss-of-hundreds-of-millions-in-revenue/\"><b>CUIMC staff moves to the frontlines to fight the pandemic amid the loss of hundreds of millions in revenue</b></a><b>]</b>"
+      "value": "[Related: <a href=\"https://www.columbiaspectator.com/news/2020/04/07/cuimc-staff-moves-to-the-frontlines-to-fight-the-pandemic-amid-the-loss-of-hundreds-of-millions-in-revenue/\">CUIMC staff moves to the frontlines to fight the pandemic amid the loss of hundreds of millions in revenue</a>]"
     },
     {
       "type": "text",
-      "value": "In a redirection of resources towards fighting the COVID-19 outbreak, many physicians have left their medical practices to work in the ICUs and emergency rooms.  Non-essential medical procedures have been postponed and non-critical medical practice has ceased in the face of redeployments and social distancing guidelines. In the 2019 fiscal year, medical faculty practice plans generated over $1.3 billion in revenue for the University - over a quarter of the year’s income."
+      "value": "In the 2019 fiscal year, medical faculty practice plans generated over $1.3 billion in revenue for the University—over a quarter of the year’s income."
     },
     {
       "type": "text",
-      "value": "Dr. Michael Shelanski, the senior vice dean for research at the Vagelos College of Physicians and Surgeons, estimated that the medical campus is “losing as much as $100 million a month in revenue because of loss of practice.”"
+      "value": "To redirect resources towards fighting the COVID-19 outbreak, the medical campus has postponed nonessential medical procedures and ceased non-critical medical practice. Shelanski estimated that the medical campus is “losing as much as $100 million a month in revenue because of loss of practice.”"
     },
     {
       "type": "text",
-      "value": "Dr. Lawrence Lustig, a leading expert in hearing loss and chair of the department of otolaryngology- head and neck surgery, estimates that within his own service, revenues are down over 90 percent."
+      "value": "Dr. Lawrence Lustig, chair of the department of otolaryngology–head and neck surgery, estimates that within his own service revenues are down over 90 percent. He believes the two keys to facilitating the Columbia University Irving Medical Center’s financial recovery are government subsidies that will offset revenue losses and a backlog of patients waiting for surgeries and postponed procedures."
     },
     {
       "type": "text",
@@ -236,32 +243,15 @@
     },
     {
       "type": "text",
-      "value": "Lustig believes the two keys to facilitating the Columbia University Irving Medical Center’s financial recovery are government subsidies that will offset revenue losses and a backlog of patients waiting for surgeries and postponed procedures."
+      "value": "<i>Staff writer Drew Letellier can be contacted at </i><a href=\"mailto:andrew.letellier@columbiaspectator.com\"><i>andrew.letellier@columbiaspectator.com</i></a>."
     },
     {
       "type": "text",
-      "value": "<i>Staff writer Drew Letellier can be contacted at </i><a href=\"mailto:andrew.letellier@columbiaspectator.com\"><i>andrew.letellier@columbiaspectator.com</i></a><i>."
+      "value": "<i>Staff writer Abby Melbourne can be contacted at </i><a href=\"mailto:abby.melbourne@columbiaspectator.com\"><i>abby.melbourne@columbiaspectator.com</i></a>."
     },
     {
       "type": "text",
-      "value": "</i><i>"
-    },
-    {
-      "type": "text",
-      "value": "</i><i>Staff writer Abby Melbourne can be contacted at </i><a href=\"mailto:abby.melbourne@columbiaspectator.com\"><i>abby.melbourne@columbiaspectator.com</i></a><i>."
-    },
-    {
-      "type": "text",
-      "value": "</i><i>Staff Writer Dia Gill can be contacted at </i><a href=\"mailto:dia.gill@columbiaspectator.com\"><i>dia.gill@columbiaspectator.com</i></a><i>. Follow her on Twitter at </i><a href=\"https://twitter.com/_diagill\"><i>@_diagill</i></a><i>."
-    },
-    {
-      "type": "text",
-      "value": "</i><i>Graphics reporter Jessica Li can be contacted at </i><a href=\"mailto:jessica.li@columbiaspectator.com\"><i>jessica.li@columbiaspectator.com</i></a><i>."
-    },
-    {
-      "type": "text",
-      "value": "</i>"
+      "value": "<i>Staff writer Dia Gill can be contacted at </i><a href=\"mailto:dia.gill@columbiaspectator.com\"><i>dia.gill@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter at </i><a href=\"https://twitter.com/ColumbiaSpec?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\"><i>@ColumbiaSpec</i></a>."
     }
-  ],
-  "footer": "Edited by <a href=\"https://www.columbiaspectator.com/contributors/Shubham-Saharan/\">Shubham Saharan</a>. Additional work by<a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\"> Raeedah Wahid</a>. \nProduced with <a href=\"https://github.com/spec-journalism/spectate/\">Spectate</a> by the Spectator <a href=\"https://github.com/spec-journalism\">Graphics</a> team."
+  ]
 }
